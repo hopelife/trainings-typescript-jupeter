@@ -9,6 +9,28 @@
 
 ### TypeScript 001 소개
 
+#### jupeter/index.html
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="css/style.css" rel="stylesheet">
+  </head>
+  <body>
+  <p>Jupeter works at browser</p>
+  </body>
+</html>
+```
+
+#### jupeter/main.ts
+
+```javascript
+console.log("Jupeter works at console")
+```
 
 ### TypeScript 002 package json 및 tsconfig json 파일
 
