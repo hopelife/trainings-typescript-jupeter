@@ -34,6 +34,11 @@ console.log("Jupeter works at console")
 
 ### TypeScript 002 package json 및 tsconfig json 파일
 
+```bash
+/Volumes/data/dev/SynologyDrive/training/web_app/front_end/typescript/trainings-typescript-jupeter$ npm init
+
+/Volumes/data/dev/SynologyDrive/training/web_app/front_end/typescript/trainings-typescript-jupeter$ npm install lite-server --save-dev
+```
 
 ### TypeScript 003 lite server 설치 및 dependency의 의미
 

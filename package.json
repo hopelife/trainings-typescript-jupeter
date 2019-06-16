@@ -1,0 +1,22 @@
+{
+  "name": "trainings-typescript-jupeter",
+  "version": "1.0.0",
+  "description": "## 참조 자료 - youtube: https://www.youtube.com/playlist?list=PLlSZlNj22M7S1HmF3Vs8TJ2gUq_0xNN6- - local: /Volumes/data/dev/SynologyDrive/lectures/youtube/Team Jupeter/초급 4년차 - TypeScript 이론과 실습 - github: https://github.com/hopelife/trainings-typescript.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hopelife/trainings-typescript-jupeter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hopelife/trainings-typescript-jupeter/issues"
+  },
+  "homepage": "https://github.com/hopelife/trainings-typescript-jupeter#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.3"
+  }
+}
